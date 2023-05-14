@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "573620588696",
+    "project_id": "tankhapay-66ba2",
+    "storage_bucket": "tankhapay-66ba2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573620588696:android:06dbf2171570e87dc6c0ed",
+        "android_client_info": {
+          "package_name": "com.contractjobs.contractjobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573620588696-n7pc7a4ibf1ie0p5hj1oqs9b4mc6j4tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFyYLXXZPTCdvpWE4jnHpLNVW57NFdmg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573620588696-n7pc7a4ibf1ie0p5hj1oqs9b4mc6j4tf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,26 @@
+import 'package:flutter/cupertino.dart';
+
+var SizedBox_1px=SizedBox(height: 1,);
+var SizedBox_2px=SizedBox(height: 2,);
+var SizedBox_3px=SizedBox(height: 3,);
+var SizedBox_4px=SizedBox(height: 4,);
+var SizedBox_5px=SizedBox(height: 5,);
+var SizedBox_6px=SizedBox(height: 6,);
+var SizedBox_7px=SizedBox(height: 7,);
+var SizedBox_8px=SizedBox(height: 8,);
+var SizedBox_9px=SizedBox(height: 9,);
+var SizedBox_10px=SizedBox(height: 10,);
+var SizedBox_11px=SizedBox(height: 11,);
+var SizedBox_12px=SizedBox(height: 12,);
+var SizedBox_13px=SizedBox(height: 13,);
+var SizedBox_14px=SizedBox(height: 14,);
+var SizedBox_15px=SizedBox(height: 15,);
+var SizedBox_16px=SizedBox(height: 16,);
+var SizedBox_17px=SizedBox(height: 17,);
+var SizedBox_18px=SizedBox(height: 18,);
+var SizedBox_19px=SizedBox(height: 19,);
+var SizedBox_20px=SizedBox(height: 20,);
+var SizedBox_21px=SizedBox(height: 21,);
+var SizedBox_22px=SizedBox(height: 22,);
+var SizedBox_30px=SizedBox(height: 30,);
+var SizedBox_40px=SizedBox(height: 40,);
